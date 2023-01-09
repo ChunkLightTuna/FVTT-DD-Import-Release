@@ -5,17 +5,15 @@
   "version": "2.4.1",
   "author": [
     {
-      "name": "Moo Man"
+      "name": "Moo Man",
+      "email": "russellt@cubicle7games.com",
+      "discord": "Moo Man#7518",
+      "reddit": "u/mooman10"
     },
-    {
-      "name": "m42e"
-    },
-    {
-      "name": "jacquie"
-    },
+    {"name": "m42e"},
+    {"name": "jacquie"},
     {
       "name": "Tuna",
-      "url": "https://github.com/ChunkLightTuna",
       "discord": "oelerich#4626"
     }
   ],
@@ -30,8 +28,8 @@
     "verified": 10,
     "maximum": 10
   },
-  "url": "https://github.com/ChunkLightTuna/FVTT-DD-Import-Release",
-  "manifest": "https://github.com/ChunkLightTuna/FVTT-DD-Import-Release/releases/latest/download/module.json",
-  "download": "https://github.com/ChunkLightTuna/FVTT-DD-Import-Release/releases/latest/download/module.zip",
-  "bugs": "https://github.com/ChunkLightTuna/FVTT-DD-Import-Release/issues"
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "bugs": "This is auto replaced"
 }
