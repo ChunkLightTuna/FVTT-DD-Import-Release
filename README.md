@@ -1,9 +1,8 @@
 # FVTT-DD-Importer
 Allows importing Universal VTT map files into FoundryVTT.
 
-**Version 2.4.0**
-
-Manifest: `https://raw.githubusercontent.com/moo-man/FVTT-DD-Import/master/module.json`
+## Manifest
+`https://github.com/ChunkLightTuna/FVTT-DD-Import-Release/releases/latest/download/module.json`
 
 
 ## Usage Instructions
